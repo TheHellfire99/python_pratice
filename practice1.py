@@ -12,5 +12,5 @@ if age:
     else: 
         print("you are too young buddy!")
 else: 
-    print("please enter an age")
+    print("please run the program again and enter an age or you will not be granted access")
 
