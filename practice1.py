@@ -2,6 +2,7 @@
 age = input("how old are you: ")
 
 if age:
+    age = int(age)
     #18-21 you wear a wrist band 
     if int(age) >= 18 and int(age) < 21:
         print("you can enter but you need a wrist band")
