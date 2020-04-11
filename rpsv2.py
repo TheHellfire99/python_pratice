@@ -3,6 +3,7 @@ print("paper...")
 print("scissor...")
 
 p1 = input ("player 1, make your move: ")
+print("**********no cheating! \n \n" * 100)
 p2 = input ("player 2, make your move: ")
 
 if p1 == p2:
